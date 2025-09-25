@@ -1,0 +1,149 @@
+version: 2
+
+models:
+  - name: stg_wallmart
+    description: "Staging sources for the e-commerce project"
+    columns:
+      - name: order_id
+        description: "The unique identifier for the order, was originally named transaction_id in raw file, added 'ORDW' to distinguish from ecomm order_id and to make it string value"
+        tests:
+          - not_null
+          - unique
+      - name: customer_id
+        description: "The unique identifier for the customer, was originally named customer_id in raw file, added 'CUSTW' to distinguish from ecomm customer_id and to make it string value"
+        tests:
+          - not_null
+      - name: product_name
+        description: "The name of the product"
+        tests:
+          - not_null
+      - name: category
+        description: "The name of the category"
+        tests:
+          - not_null
+      - name: quantity_sold
+        description: "The quantity of the product sold"
+        tests:
+          - not_null
+      - name: unit_price
+        description: "The price per unit of the product"
+        tests:
+          - not_null
+      - name: order_date
+        description: "The date of the order"
+        tests:
+          - not_null
+      - name: store_id
+        description: "The unique identifier for the store"
+        tests:
+          - not_null
+      - name: store_location
+        description: "The location of the store"
+        tests:
+          - not_null
+      - name: country
+        description: "All USA for country"
+        tests:
+          - not_null
+      - name: supplier_id
+        description: "The unique identifier for the supplier, added 'SUPPW' to distinguish from ecomm supplier_id and to make it string value"
+        tests:
+          - not_null
+      - name: age_group
+        description: "The age group of the customer"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Teenagers", "Adults", "Senior"]
+      - name: customer_gender
+        description: "The gender of the customer"
+        tests:
+          - not_null
+      - name: payment_method
+        description: "The method of payment used"
+        tests:
+          - not_null
+      - name: order_status
+        description: "All In_Shop as bought at Wallmart"
+        tests:
+          - accepted_values:
+              arguments:
+                values: ["In_Shop"]
+  
+  - name: stg_ecomm
+    description: "Staging sources for the e-commerce project"
+    columns:
+      - name: order_id
+        description: "The unique identifier for the order, was originally named order_number in raw file"
+        tests:
+          - not_null
+          - unique
+      - name: customer_id
+        description: "The unique identifier for the customer"
+        tests:
+          - not_null
+      - name: product_name
+        description: "The name of the product"
+        tests:
+          - not_null
+      - name: category  
+        description: "The name of the category"
+        tests:
+          - not_null
+      - name: quantity_sold
+        description: "The quantity of the product sold"
+        tests:
+          - not_null
+      - name: unit_price
+        description: "The price per unit of the product"
+        tests:
+          - not_null
+      - name: order_date  
+        description: "The date of the order"
+        tests:
+          - not_null
+      - name: store_id
+        description: "The unique identifier for the store - all are Online_001" 
+        tests:
+          - not_null   
+      - name: store_location
+        description: "The location of the store - all are Online"
+        tests:
+          - not_null
+      - name: country
+        description: "The country the order was purchased in"
+        tests:
+          - not_null    
+      - name: supplier_id
+        description: "The unique identifier for the supplier - All Unknown"
+        tests:
+          - not_null
+      - name: age_group
+        description: "The age group of the customer"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Teenagers", "Adults", "Senior"]
+      - name: customer_gender
+        description: "The gender of the customer"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Male", "Female", "Other"]
+      - name: payment_method
+        description: "The method of payment used"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+                values: ["Credit Card", "PayPal", "Cash on Delivery"]
+      - name: order_status
+        description: "The status of the order"
+        tests:
+          - not_null
+          - accepted_values:
+              arguments:
+              values: ["Delivered", "Shipped", "Cancelled", "Pending", "Returned"]

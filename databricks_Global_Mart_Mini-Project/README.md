@@ -1,4 +1,4 @@
-# Mini project
+# Global Mart Mini project
 
 ## **Introduction**
 

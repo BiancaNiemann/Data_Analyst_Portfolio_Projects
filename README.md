@@ -16,7 +16,7 @@ Each project reflects a unique business case and demonstrates my ability to work
 
 ---
 
-### 2. [Clinipet HealthTail Analysis Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Clinipet_Healthtail_Analysis)
+### 2. [Clinipet HealthTail Analysis Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Clinipet_Healthtail_Analysis_Project)
 #### Tools: BigQuery, Looker Studio
 #### Summary:
 - Led data integration and dashboard development for HealthTail Veterinary Hospital.
@@ -25,7 +25,7 @@ Each project reflects a unique business case and demonstrates my ability to work
 
 ---
 
-### 3. [MarketFlash Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main)
+### 3. [MarketFlash Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Market_Flash_Project)
 #### Tools: Google Sheets, BigQuery, Tableau, dbt, Airflow
 #### Summary:
 - Redesigned a fictional marketing company's data system by building a relational database and creating dashboards for campaign and client analysis.

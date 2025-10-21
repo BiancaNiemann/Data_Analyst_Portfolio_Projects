@@ -11,7 +11,7 @@
 * Sales representatives have the highest attrition rate at 39.8%, while Engineering managers have the lowest at just 2.7%.
 * 44% of the employees are married.
 
-Check out my Tableau dashboard here: [Tableau Dashboard](https://public.tableau.com/app/profile/bianca.niemann/viz/AtlasLabsHRAnalytics_17437847096740/HRDashboard)
+Check out my Tableau dashboard here: [Atlas Labs Dashboard](https://public.tableau.com/app/profile/bianca.niemann/viz/AtlasLabsHRAnalytics_17437847096740/HRDashboard)
 
 ##### After completing the Atlas Labs HR Analytics case study on DataCamp, I decided to reinforce my learning by practicing some of the key insights using SQL. I used commands such as SELECT, COUNT, GROUP BY, and COALESCE to query the database and replicate the data displayed on my Tableau dashboard
 

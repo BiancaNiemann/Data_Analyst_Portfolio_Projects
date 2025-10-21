@@ -1,5 +1,5 @@
-
-Welcome to my portfolio! This is a collection of **Data Analytics** and **Business Intelligence (BI)** projects I've completed over the past few months while learning and applying new skills in:
+# 📊 Data & BI Analytics Portfolio Projects
+## Welcome to my portfolio! This is a collection of **Data Analytics** and **Business Intelligence (BI)** projects I've completed over the past few months while learning and applying new skills in:
 
 **SQL**, **Excel**, **Google Sheets**, **Tableau**, **Databricks**, **Python**, **dbt**, **Snowflake**, **BigQuery**, **Looker Studio**, and more.
 

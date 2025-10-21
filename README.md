@@ -9,44 +9,67 @@ Each project reflects a unique business case and demonstrates my ability to work
 
 ## 📁 Projects Overview
 ### 1. [Atlas Labs HR Analytics Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/blob/main/Atlas_Labs_HR_Analytics_Project)
-cover workforce trends. Created calculated fields and dashboards to visualize key metrics.  
-Reinforced learning by replicating insights using SQL queries (e.g., `SELECT`, `GROUP BY`, `COALESCE`) to explore the same dataset.
+#### Tools: Tableau, SQL
+#### Summary:
+- Analyzed HR data from a fictional company, Atlas Labs, using Tableau to uncover workforce trends. Created calculated fields and dashboards to visualize key metrics.
+- Reinforced learning by replicating insights using SQL queries (e.g., SELECT, GROUP BY, COALESCE) to explore the same dataset.
 
 ---
 
-### 2. [Clinipet HealthTail Analysis Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Clinipet_Healthtail_Analysisboard development for HealthTail Veterinary Hospital. Built ETL pipelines and interactive dashboards to audit medication purchases and analyze disease trends.  
-Delivered insights to support inventory planning and staffing decisions.
+### 2. [Clinipet HealthTail Analysis Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Clinipet_Healthtail_Analysis)
+#### Tools: BigQuery, Looker Studio
+#### Summary:
+- Led data integration and dashboard development for HealthTail Veterinary Hospital.
+- Built ETL pipelines and interactive dashboards to audit medication purchases and analyze disease trends.
+- Delivered insights to support inventory planning and staffing decisions.
 
 ---
 
-### 3. [MarketFlash Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/mainRedesigned a fictional marketing company's data system by building a relational database and creating dashboards for campaign and client analysis.  
-Applied data modeling, SQL querying, and visualization techniques to support scalable business growth.
+### 3. [MarketFlash Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main)
+#### Tools: Google Sheets, BigQuery, Tableau, dbt, Airflow
+#### Summary:
+- Redesigned a fictional marketing company's data system by building a relational database and creating dashboards for campaign and client analysis.
+- Applied data modeling, SQL querying, and visualization techniques to support scalable business growth.
 
 ---
 
-### 4. [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Projectith raw e-commerce data and built a clean, insightful dashboard.  
-Demonstrated an end-to-end data pipeline from ingestion to visualization, showcasing skills in transformation and reporting.
+### 4. [Omnichannel Ecomm Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Omnichannel_Ecomm_Project)
+#### Tools: BigQuery, dbt Core, Airflow, Looker Studio
+#### Summary:
+- A personal favorite! Started with raw e-commerce data and built a clean, insightful dashboard.
+- Demonstrated an end-to-end data pipeline from ingestion to visualization, showcasing skills in transformation and reporting.
 
 ---
 
-### 5. [TravelTide Segmentation & Rewards Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/TravelTide_Segictional travel company to recommend personalized rewards.  
-Used decision tree modeling and behavioral analysis to identify key customer groups and improve retention strategies.
+### 5. [TravelTide Segmentation & Rewards Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/TravelTide_Segmentation_and_Rewards_Analysis_Project) 
+#### Tools: Python, SQL, Google Sheets, Tableau
+#### Summary:
+- Segmented customers of a fictional travel company to recommend personalized rewards.
+- Used decision tree modeling and behavioral analysis to identify key customer groups and improve retention strategies.
 
 ---
 
-### 6. [Unicorn Company Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projectsanalyzing Unicorn's sales performance across regions and product categories.  
-Identified trends and profitability insights to support revenue growth and operational efficiency.
+### 6. [Unicorn Company Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/Unicorn_Project_Masterschool) 
+#### Tools: Tableau, Google Sheets
+#### Summary:
+- Group project analyzing Unicorn's sales performance across regions and product categories.
+- Identified trends and profitability insights to support revenue growth and operational efficiency.
 
 ---
 
-### 7. [Databricks GlobalMart Mini Project](https://github.com/BiancaNiemann/Data
-Built an interactive dashboard for GlobalMart to monitor sales metrics, regional performance, and product trends.  
-Empowered stakeholders with visual insights to guide strategic decisions and identify growth opportunities.
+### 7. [Databricks GlobalMart Mini Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/databricks_Global_Mart_Mini-Project)
+#### Tools: Databricks
+#### Summary:
+- Built an interactive dashboard for GlobalMart to monitor sales metrics, regional performance, and product trends.
+- Empowered stakeholders with visual insights to guide strategic decisions and identify growth opportunities.
 
 ---
 
-### 8. [dbt Silver Screen Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/dbt_Silverance of three movie theaters in New Jersey.  
-Created a summary table showing movie details, rental costs, ticket sales, and revenue per location to assess profitability.
+### 8. [dbt Silver Screen Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/tree/main/dbt_Silverscreen_Project) 
+#### Tools: dbt, Snowflake, SQL, Git, Tableau
+#### Summary:
+- Analyzed monthly performance of three movie theaters in New Jersey.
+- Created a summary table showing movie details, rental costs, ticket sales, and revenue per location to assess profitability.
 
 ---
 

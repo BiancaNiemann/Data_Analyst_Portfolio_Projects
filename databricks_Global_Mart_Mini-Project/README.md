@@ -4,8 +4,6 @@
 
 In the realm of Business Intelligence (BI) education, practical exercises serve as a cornerstone for cultivating proficiency and a deep understanding of analytical processes. The ability to transform raw data into actionable insights is a critical skill, and the construction of interactive dashboards stands out as a particularly valuable method for achieving this. Dashboards provide a centralized view of **key performance indicators** (**KPIs**) and **trends**, enabling businesses to monitor their **performance**, identify areas for improvement, and make data-driven decisions. 
 
-![image.png](attachment:94fed7c3-b317-44f4-bd81-8e9f1a5f02e3:image.png)
-
 Databricks, as a unified platform for data analytics, offers a comprehensive environment for end-to-end BI workflows, encompassing data processing, advanced analytics, and interactive dashboard creation 
 
 ### **Building a Sales Dashboard in Databricks**
@@ -20,7 +18,6 @@ Databricks, as a unified platform for data analytics, offers a comprehensive env
 
 </aside>
 
-![image.png](attachment:ec2c39ce-727b-4570-b91c-e9ceb4ce560d:image.png)
 
 ### **Dataset**
 

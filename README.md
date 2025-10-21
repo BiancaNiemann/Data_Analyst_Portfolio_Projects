@@ -8,7 +8,8 @@ Each project reflects a unique business case and demonstrates my ability to work
 ---
 
 ## 📁 Projects Overview
-### 1. [Atlas Labs HR Analytics Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/blob/main/Atlas_Labs_HR_Analytics_Project/READMEncover workforce trends. Created calculated fields and dashboards to visualize key metrics.  
+### 1. [Atlas Labs HR Analytics Project](https://github.com/BiancaNiemann/Data_Analyst_Portfolio_Projects/blob/main/Atlas_Labs_HR_Analytics_Project)
+cover workforce trends. Created calculated fields and dashboards to visualize key metrics.  
 Reinforced learning by replicating insights using SQL queries (e.g., `SELECT`, `GROUP BY`, `COALESCE`) to explore the same dataset.
 
 ---

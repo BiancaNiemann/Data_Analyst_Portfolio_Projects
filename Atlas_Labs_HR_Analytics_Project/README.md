@@ -1,9 +1,9 @@
 # Atlas-Labs-HR-Analytics
 
-##### In this HR Analytics case study from Datacamp, I explored data from a fictional company called Atlas Labs. 
-##### Using Tableau, I performed exploratory data analysis (EDA) and created calculated fields to build impactful visualizations that highlight key workforce trends.
+- In this HR Analytics case study from Datacamp, I explored data from a fictional company called Atlas Labs. 
+-  Using Tableau, I performed exploratory data analysis (EDA) and created calculated fields to build impactful visualizations that highlight key workforce trends.
 
-#### Key Findings:
+### Key Findings:
 * Atlas Labs has hired a total of 1,470 employees since inception.
 * Currently, 1,233 employees are active, with 237 former employees, resulting in an attrition rate of 16.1%.
 * The Technology department is the largest by far.
@@ -13,7 +13,8 @@
 
 Check out my Tableau dashboard here: [Atlas Labs Dashboard](https://public.tableau.com/app/profile/bianca.niemann/viz/AtlasLabsHRAnalytics_17437847096740/HRDashboard)
 
-##### After completing the Atlas Labs HR Analytics case study on DataCamp, I decided to reinforce my learning by practicing some of the key insights using SQL. I used commands such as SELECT, COUNT, GROUP BY, and COALESCE to query the database and replicate the data displayed on my Tableau dashboard
+- After completing the Atlas Labs HR Analytics case study on DataCamp, I decided to reinforce my learning by practicing some of the key insights using SQL.
+- I used commands such as SELECT, COUNT, GROUP BY, and COALESCE to query the database and replicate the data displayed on my Tableau dashboard
 
 - KPIs of current, past, total employees and attrition rate:
 - ![image](https://github.com/user-attachments/assets/0cdf7db9-27f6-437a-af25-5772b8b92a34)
